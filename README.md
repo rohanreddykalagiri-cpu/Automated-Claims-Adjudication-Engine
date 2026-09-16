@@ -1,8 +1,6 @@
 
 #**Engineer:** Sai Rohan Kalagiri
 
-*(Insert link to your 60-second Loom demo video here)*
-
 ## Architecture Overview
 This is an end-to-end Machine Learning pipeline built to ingest messy contractor data, predict line-item approval outcomes, and serve predictions via a live inference API with **no handoffs**.
 
